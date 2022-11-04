@@ -72,6 +72,23 @@ GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
 [Document3]
+DocumentPath=PSU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=4
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GWNUUSDU
+
+[Document4]
 DocumentPath=PeltierDriver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=5
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IQYMPFYX
 
-[Document4]
+[Document5]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBQKIPQS
 
-[Document5]
+[Document6]
 DocumentPath=Imported alchitry_elements.Library.PrjPcb\alchitry_elements.Library\alchitry_elements.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DMESPPQJ
 
-[Document6]
+[Document7]
 DocumentPath=Imported alchitry_elements.Library.PrjPcb\alchitry_elements.Library\alchitry_elements.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BRPGPGIW
 
-[Document7]
+[Document8]
 DocumentPath=Imported alchitry_elements.Library.PrjPcb\alchitry_elements.Library.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=Vref.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OZGRHNTJ
 
-[Document9]
+[Document10]
 DocumentPath=Frontend.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=2
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DOOYDQPO
 
-[Document10]
+[Document11]
 DocumentPath=ADC_Core.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=3
@@ -206,23 +223,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXRCPBAY
-
-[Document11]
-DocumentPath=PSU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=4
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GWNUUSDU
 
 [Document12]
 DocumentPath=RangeSwitch.SchDoc

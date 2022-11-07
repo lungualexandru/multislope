@@ -89,23 +89,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MBQKIPQS
 
 [Document4]
-DocumentPath=..\..\..\..\..\..\lungu\Documents\AltiumLL\SamacSys.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NGLTGAHM
-
-[Document5]
 DocumentPath=Imported alchitry_elements.Library.PrjPcb\alchitry_elements.Library\alchitry_elements.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,24 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DMESPPQJ
 
-[Document6]
-DocumentPath=..\..\..\..\..\..\lungu\Documents\AltiumLL\SamacSys.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MPRJBCLL
-
-[Document7]
+[Document5]
 DocumentPath=Imported alchitry_elements.Library.PrjPcb\alchitry_elements.Library\alchitry_elements.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BRPGPGIW
 
-[Document8]
+[Document6]
 DocumentPath=Imported alchitry_elements.Library.PrjPcb\alchitry_elements.Library.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document7]
 DocumentPath=Vref.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OZGRHNTJ
 
-[Document10]
+[Document8]
 DocumentPath=Frontend.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=2
@@ -207,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DOOYDQPO
 
-[Document11]
+[Document9]
 DocumentPath=ADC_Core.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=3
@@ -224,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXRCPBAY
 
-[Document12]
+[Document10]
 DocumentPath=RangeSwitch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=6
@@ -241,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FIBBMEFF
 
-[Document13]
+[Document11]
 DocumentPath=Multislope_Board.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WWKCESYK
 
-[Document14]
+[Document12]
 DocumentPath=Block_Diagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EVUGRLNT
 
-[Document15]
+[Document13]
 DocumentPath=FPGA.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AAZUWZNY
 
-[Document16]
+[Document14]
 DocumentPath=Multislope.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -467,7 +433,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=Canon PRO-1000 series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

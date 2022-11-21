@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Multislope_Board.PcbDoc   11/21/2022  2:44:14 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Multislope_Board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             378       PTH        1503.63mm (59.20inch)
+T2      0.8mm (31mil)                                             Round             4         PTH        6.88mm (0.27inch)
+T3      0.813mm (32mil)                                           Round             6         PTH        24.96mm (0.98inch)
+T4      0.9mm (35mil)                                             Round             4         PTH        14.50mm (0.57inch)
+T5      0.55mm (22mil)                                            Round             8         NPTH       111.02mm (4.37inch)
+T6      2.2mm (87mil)                                             Round             4         NPTH       160.00mm (6.30inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              404
+
+Total Processing Time (hh:mm:ss) : 00:00:00
